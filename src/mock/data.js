@@ -58,7 +58,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: "Work on a project? I'd love to connect!",
+  cta: "Working on a project? I'd love to connect!",
   btn: '',
   email: 'samira.gibsonchc@gmail.com',
 };
