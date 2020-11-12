@@ -9,7 +9,7 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Hey, Im',
+  title: "Hey, I'm",
   name: 'Mira',
   subtitle: 'Philly based Visual Designer & skateboarder.',
   cta: 'Know More',
@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'IMG_1372.jpg',
   paragraphOne:
-    'While a lover of dad jokes and dog mom of two lovely pups, I have a speial passion for helping black entrepreneurs craft their own visual brands. I have a background in visual and digital design, ecommerce, action sports, music media, and video production',
+    'With a background in visual & digital design, ecommerce, action sports, music media, and video production, I have a special passion for helping black entrepreneurs craft their own visual brands. A lover of dad jokes and manga, I live at the intersection of design + code with a degree in computer technology focusing on digital media.',
   paragraphTwo:
-    'Working and living in South Philly as a design consultant, when Im not at my desk you can find me skateboarding at Grays Ferry Skatepark, scarfing down desserts from A la Mousse, or out with my 4 year old Rottie, Rocky',
+    "Working and living in South Philly as a design consultant, when I''m not at my desk you can find me skateboarding at Grays Ferry Skatepark, scarfing down desserts from A la Mousse, or out on walks with my lovely partner, our 7 yr old beagle Theo and 4 yr old Rottie, Rocky.",
   resume: '',
 };
 
