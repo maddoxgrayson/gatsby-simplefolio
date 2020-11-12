@@ -11,16 +11,15 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Mira',
-  subtitle: "the Visual Designer & skateboarder.",
+  subtitle: 'the Visual Designer & skateboarder.',
   cta: 'Know More',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'IMG_1372.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'Your copy goes here.',
+  paragraphTwo: 'Your other copy ',
   resume: '',
 };
 
