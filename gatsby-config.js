@@ -22,8 +22,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Simplefolio`,
-        short_name: `Simplefolio`,
+        name: `Samira Gibson`,
+        short_name: `Samira Gibson`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#02aab0`,
