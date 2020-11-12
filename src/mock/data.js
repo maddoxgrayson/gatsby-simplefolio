@@ -2,24 +2,26 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
+  title: 'Samira Gibson', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
+  title: 'Hey, Im',
   name: 'Mira',
-  subtitle: 'the Visual Designer & skateboarder.',
+  subtitle: 'Philly based Visual Designer & skateboarder.',
   cta: 'Know More',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'IMG_1372.jpg',
-  paragraphOne: 'Your copy goes here.',
-  paragraphTwo: 'Your other copy ',
+  paragraphOne:
+    'While a lover of dad jokes and dog mom of two lovely pups, I have a speial passion for helping black entrepreneurs craft their own visual brands. I have a background in visual and digital design, ecommerce, action sports, music media, and video production',
+  paragraphTwo:
+    'Working and living in South Philly as a design consultant, when Im not at my desk you can find me skateboarding at Grays Ferry Skatepark, scarfing down desserts from A la Mousse, or out with my 4 year old Rottie, Rocky',
   resume: '',
 };
 
