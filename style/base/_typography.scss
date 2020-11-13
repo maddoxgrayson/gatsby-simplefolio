@@ -39,8 +39,7 @@ a:hover {
 }
 
 .text-color-main {
-  background-image: linear-gradient(-225deg, #5271C4 0%, #B19FFF 48%, #ECA1FE 100%
-      //135deg, $primary-color 0%, $secondary-color 100%
+  background-image: 135deg, $primary-color 0%, $secondary-color 100%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
