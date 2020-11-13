@@ -3,8 +3,8 @@ import { nanoid } from 'nanoid';
 // HEAD DATA
 export const headData = {
   title: 'Samira Gibson', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  lang: 'en', // e.g: en, es, fr, jp
+  description: 'Welcome to my portfolio site', // e.g: Welcome to my website
 };
 
 // HERO DATA
