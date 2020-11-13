@@ -29,8 +29,6 @@ function App() {
       <Hero />
       <About />
       <Projects />
-      <Projects />
-      <Projects />
       <Contact />
       <Footer />
     </PortfolioProvider>
