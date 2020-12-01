@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'With a background in visual & digital design, ecommerce, action sports, music media, and video production, I have a special passion for helping black entrepreneurs craft their own visual brands. A lover of dad jokes and manga, I live at the intersection of design + code with a degree in computer technology focusing on digital media.',
   paragraphTwo:
-    "Working and living in South Philly as a design consultant, when I'm not at my desk you can find me skateboarding at Grays Ferry Skatepark, scarfing down desserts from A la Mousse, or out on walks with my lovely partner, our 7 yr old beagle Theo and 4 yr old Rottie, Rocky.",
+    "Working and living in South Philly as a visual design consultant, when I'm not at my desk you can find me skateboarding at Grays Ferry Skatepark, scarfing down desserts from A la Mousse, or out on walks with my lovely partner, our 7 yr old beagle Theo and 4 yr old Rottie, Rocky.",
   resume: '',
 };
 
@@ -86,5 +86,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
